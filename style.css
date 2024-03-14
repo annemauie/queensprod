@@ -1,0 +1,30 @@
+*{
+    background: rgb(240, 168, 168);
+}
+
+.sectionOne{
+    max-width: 1000px;
+    margin: 50px auto;
+    padding-top: 50px;
+    display: flex;
+}
+
+.sectionTwo{
+    max-width: 1000px;
+    margin: 50px auto;
+    display: flex ;
+    padding-top: 50px;
+    text-align: center;
+}
+
+img{
+    width: 130px;
+    height: 80px;
+    display: flex;
+    margin-left: 220px;
+}
+
+button{
+    border-radius: 5px;
+    background-color: bisque;
+}
