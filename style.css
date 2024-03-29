@@ -71,7 +71,7 @@ nav {
     }
 
     .back-button {
-        margin-left: 10px; /* Adjust margin for smaller screens */
-        margin-top: 20px;
+        margin-left: 20px; /* Adjust margin for smaller screens */
+        margin-top: 20px;;
     }
 }
