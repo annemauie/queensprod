@@ -6,13 +6,20 @@
     <title>Document</title>
     <link rel = "stylesheet" href = "style.css">
 </head>
+<nav>
+    <a href="#" class="back-button" onclick="goBack()">Back</a>
+</nav>
 <body>
     <div id = "sectionOne" class = "sectionOne">
     </div>
 
     <div id = "sectionTwo" class = "sectionTwo">
     </div>
-
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
     <script type = "module" src = "app.js"></script>
 </body>
 </html>
