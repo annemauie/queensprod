@@ -9,16 +9,16 @@ import { mycard } from "./card.js"
 
 const data = {
     title : " This is title : U can use title if tou want",
-    para : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi,<br> culpa nobis facilis ipsam iure ipsum, deserunt expedita amet repudiandae,<br> dolorum quibusdam aliquam doloribus esse nemo quidem suscipit enim.<br> Fugit, voluptate.",
+    para : "a beautiful butterfly tats.<br> butterfly tattoo is a nice meaning tattoo ,<br> anything about this project is butterfly",
     button : "Contact us",
     myImage: "../bttr.png"
 }
 
 const data2 = {
     title1 : "PROJECT COMPLETED",
-    para1 : "Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Animi, culpa nobis facilis ipsam iure ipsum, deserunt expedita amet repudiandae,<br> dolorum quibusdam aliquam doloribus esse nemo quidem suscipit enim. Fugit, voluptate.",
-    para2 : "Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Animi, culpa nobis facilis ipsam iure ipsum, deserunt expedita amet repudiandae,<br> dolorum quibusdam aliquam doloribus esse nemo quidem suscipit enim. Fugit, voluptate.",
-    para3 : "Lorem ipsum dolor sit, amet consectetur adipisicing elit.<br> Animi, culpa nobis facilis ipsam iure ipsum, deserunt expedita amet repudiandae,<br> dolorum quibusdam aliquam doloribus esse nemo quidem suscipit enim. Fugit, voluptate.",
+    para1 : "a beautiful butterfly tats.<br> butterfly tattoo is a nice meaning tattoo ,<br> anything about this project is butterfly",
+    para2 : "a beautiful butterfly tats.<br> butterfly tattoo is a nice meaning tattoo ,<br> anything about this project is butterfly",
+    para3 : "a beautiful butterfly tats.<br> butterfly tattoo is a nice meaning tattoo ,<br> anything about this project is butterfly",
     button1 : "Learn more",
     button2 : "Learn more",
     button3 : "Learn more",
